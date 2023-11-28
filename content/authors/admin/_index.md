@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: James Kennedy
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: James
+last_name: Kennedyn
 
 # Status emoji
 status:
@@ -17,34 +17,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Fish biologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Marine and Freshwater Rsearch Institute
+    url: https://www.hafogvatn.is
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
+
+I am a fish biologist at the Marine and Freshwater Research Institute in Iceland. My primary interest is the biology and ecology of lumpfish (Cyclopterus lumpus), with other interests including the biology of mesopelagic fishes and the distribution and behaviour of rare species. Lumpfish is fished commercially in Iceland and I am responsible for providing management advice to ensure the fishery is sustainable. My current work focuses on the development of a method for ageing of lumpfish, examining its migratory behaviour through tagging and what environmental variables drive its distribution in the eastern Atlanatic.
+
+I have previously worked on the reproductive biology of several species (plaice, herring, cod and Greenland halibut) which was performed at the marine laboratory on the Isle of Man and at the University of Bergen.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+ - General biology of lumpfish
+ - Fish reproduction & ecology
+ - Fisheries Assessment 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Biology
+      institution: University of Liverpool
+      year: 2006
+    - course: B.Sc. in Marine Biology
+      institution: Stirling University
+      year: 2002
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,29 +97,28 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Clumpusjim
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.is/citations?user=8lKkcCIAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/clumpusjim
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fish biologist at the Marine and Freshwater Research Institute in Iceland. My primary interest is the biology and ecology of lumpfish (Cyclopterus lumpus), with other interests including the biology of mesopelagic fishes and the distribution and behaviour of rare species. Lumpfish is fished commercially in Iceland and I am responsible for providing management advice to ensure the fishery is sustainable. My current work focuses on the development of a method for ageing of lumpfish, examining its migratory behaviour through tagging and what environmental variables drive its distribution in the eastern Atlanatic.
+
+I have previously worked on the reproductive biology of several species (plaice, herring, cod and Greenland halibut) which was performed at the marine laboratory on the Isle of Man and at the University of Bergen.
 {style="text-align: justify;"}
