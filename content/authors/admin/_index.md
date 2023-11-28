@@ -7,7 +7,7 @@ title: James Kennedy
 
 # Full name (for SEO)
 first_name: James
-last_name: Kennedyn
+last_name: Kennedy
 
 # Status emoji
 status:
